@@ -12,6 +12,7 @@ We propose an RFM analysis by categorizing Recency, Frequency, and Monetary.
 1. Recency: we use binning with 3 categories.
 2. Frequency: we use simple K-Means clustering with 4 clusters.
 3. Monetary: we use simple K-Means clustering with 3 clusters.
+
 Out of all this R, F, and M, we then categorize by subjectivity regarding our business understanding to 4 categories:
 1. Champion, are customers with highest values.
 2. Potential Loyalists, are customer that may be beneficial for company.
