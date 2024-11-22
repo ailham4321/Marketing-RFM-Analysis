@@ -1,3 +1,6 @@
+## Creator
+This project is made by [Abdillah Ilham](github.com/ailham4321) and [Rahmannuaji Satuhu](github.com/rahmannuaji).
+
 ## Backgrounder
 A retail company (namely XYZ) wants to upsale their retail sales by doing targeted campaign.
 
